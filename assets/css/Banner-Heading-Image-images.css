@@ -1,0 +1,13 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+svg_1 {
+  height: 50px;
+}
+
+svg_1 {
+  height: 50px !important;
+  width: 50px !important;
+}
+

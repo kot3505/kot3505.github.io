@@ -1,0 +1,15 @@
+.btn:hover {
+  opacity: .8;
+  color: black !important;
+}
+
+.btn-menu {
+  transition: .3s;
+  color: white !important;
+}
+
+.btn-menu:hover {
+  color: black !important;
+  background: white !important;
+}
+
